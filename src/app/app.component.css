@@ -1,0 +1,11 @@
+p {
+  font-family: Lato;
+}
+
+.container {
+  margin: 10px;
+}
+
+mat-toolbar {
+  margin: 0;
+}
